@@ -1,4 +1,4 @@
 export default {
-    token: '请用使用说明获取到的 token 替换此内容',
+    token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJiZjE5NjlkMi0yODg3LTQ5NWQtOTA0NC01NTQ5NWVjN2UxNjgiLCJzdWIiOiIzIiwidXNlciI6eyJjcmVhdGVkRGF0ZSI6bnVsbCwiY3JlYXRlZEJ5IjpudWxsLCJ1cGRhdGVkRGF0ZSI6bnVsbCwidXBkYXRlZEJ5IjpudWxsLCJpZCI6MTk1MDgsInJvbGVJZCI6MywibmFtZSI6IumYv-WNnOadnOWHr-WwpOacqMK36bqm6bqm5o-QIiwic2Nob29sSWQiOjYzfSwiaWF0IjoxNzkzMTAzMDQwLCJleHAiOjE3OTMxNDYyNDB9.meUUVNKeOvDhkSwa2tm-rR4l0wIWGNdolSbJtXfZQvg,
     tries: 10
 };
